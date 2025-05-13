@@ -103,8 +103,8 @@ MyMusic replicates all the core features of **Spotify Web**, along with its own 
 1️⃣ **Clone the repository**
 
 ```sh
-git clone https://github.com/vipulsuthar1144/my-music-web.git
-cd my-music-web
+git clone https://github.com/SreytouchLang/music-web
+cd music-web
 ```
 
 2️⃣ **Install dependencies**
