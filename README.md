@@ -8,21 +8,6 @@
 
 MyMusic replicates all the core features of **Spotify Web**, along with its own **landing page and mobile-first responsive design**.
 
-## 📌 Live Preview
-
-👉 **[View Live Website](https://mymusic-1144.web.app)** (beta-release)
-
-👉 **Note :-**
-| |
-|-------------|
-| We are excited to introduce the beta release of our music web application! Currently, access is limited to a select group of users for testing and feedback. If you would like to request access, please send an email to vipulsuthar1144@gmail.com. I will review your request and provide further details. I appreciate your interest and look forward to your valuable feedback. |
-
-👉 **Guest Account :-**
-
-|               |                     |
-| ------------- | ------------------- |
-| **Email:**    | `guest@mymusic.com` |
-| **Password:** | `Guest@mymusic.com` |
 
 ## **🌟 Features**
 
@@ -161,22 +146,3 @@ npm run dev
 ```
 
 The app will be available at **http://localhost:5173/**
-
-## **🤝 Contributing**
-
-Contributions are **Welcome!** 🎉  
-Feel free to **open issues, submit pull requests, or provide feedback** to enhance MyMusic! 🚀
-
-## **📜 License**
-
-This project is **open-source** under the **MIT License**.
-
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-
-## **📬 Let's Connect!**
-
-Got feedback or ideas? Feel free to reach out! 🎶
-
-- 📧 Email: vipulsuthar1144@gmail.com
-- 💼 LinkedIn: [Vipul Suthar | LinkedIn](https://www.linkedin.com/in/vipulsuthar1144)
